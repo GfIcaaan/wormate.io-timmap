@@ -1,0 +1,12 @@
+{
+  "name": "wormate-timmap",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./client",
+    "run_worker_first": ["/pub/*", "/check", "/store", "/healthz", "/wormy", "/js/game.js"]
+  },
+  "vars": {
+    "TUNNEL_ORIGIN": "https://cemetery-substance-surround-translator.trycloudflare.com"
+  }
+}
