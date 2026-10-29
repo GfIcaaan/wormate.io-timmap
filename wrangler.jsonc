@@ -7,6 +7,6 @@
     "run_worker_first": ["/pub/*", "/check", "/store", "/healthz", "/wormy", "/js/game.js"]
   },
   "vars": {
-    "TUNNEL_ORIGIN": "https://cemetery-substance-surround-translator.trycloudflare.com"
+    "TUNNEL_ORIGIN": "https://officials-gathered-maintaining-switched.trycloudflare.com"
   }
 }
