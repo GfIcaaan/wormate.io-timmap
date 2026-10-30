@@ -7,6 +7,6 @@
     "run_worker_first": ["/pub/*", "/check", "/store", "/healthz", "/wormy", "/js/game.js"]
   },
   "vars": {
-    "TUNNEL_ORIGIN": "https://breeding-favour-aerial-barrel.trycloudflare.com  "
+    "TUNNEL_ORIGIN": "https://copyright-munich-clear-engines.trycloudflare.com"
   }
 }
