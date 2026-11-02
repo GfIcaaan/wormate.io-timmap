@@ -3,7 +3,7 @@
   "main": "worker.js",
   "compatibility_date": "2025-01-01",
   "assets": {
-    "directory": "./client",
+    "directory": "."
     "run_worker_first": ["/pub/*", "/check", "/store", "/healthz", "/wormy", "/js/game.js"]
   },
   "vars": {
